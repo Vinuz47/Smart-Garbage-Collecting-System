@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288484112296",
+    "project_id": "smart-garbage-system-4e392",
+    "storage_bucket": "smart-garbage-system-4e392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288484112296:android:0f385cc4efb95c15a1cf9d",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCNKGmIBHs0Ngkla7NTjG4JzN6Jm30oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
